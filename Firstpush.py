@@ -31,3 +31,14 @@ print(result6)  # Output: -15
 # Test case 7: Adding -4 and -11
 result7 = add_negative_numbers(-4, -11)
 print(result7)  # Output: -15
+# Test case 8: Adding -6 and -9
+result8 = add_negative_numbers(-6, -9)
+print(result8)  # Output: -15
+
+# Test case 9: Adding -3 and -5
+result9 = add_negative_numbers(-3, -5)
+print(result9)  # Output: -8
+
+# Test case 10: Adding -7 and -2
+result10 = add_negative_numbers(-7, -2)
+print(result10)  # Output: -9
